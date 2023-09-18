@@ -12,7 +12,8 @@ import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
-import python from "./tech/python.png"
+import redux from "./tech/redux.png"
+import figma from "./tech/figma.png"
 import mui from "./tech/mui.png"
 import mysql from "./tech/mysql.png"
 import bootstrap from "./tech/bootstrap.png"
@@ -54,7 +55,8 @@ export {
   linkedin,
   link,
   gamerpad,
-  python,
+  redux,
+  figma,
   mui,
   mysql,
   bootstrap

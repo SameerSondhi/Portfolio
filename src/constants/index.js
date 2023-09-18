@@ -18,7 +18,8 @@ import {
     github,
     linkedin,
     gamerpad,
-    python,
+    redux,
+    figma,
     mui,
     mysql,
     bootstrap
@@ -108,8 +109,12 @@ import {
       icon: git,
     },
     {
-      name: "Python",
-      icon: python,
+      name: "Redux",
+      icon: redux,
+    },
+    {
+      name: "Figma",
+      icon: figma,
     },
     {
       name: "bootstrap",
