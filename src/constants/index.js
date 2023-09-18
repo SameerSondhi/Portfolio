@@ -18,8 +18,7 @@ import {
     github,
     linkedin,
     gamerpad,
-    java,
-    spring,
+    python,
     mui,
     mysql,
     bootstrap
@@ -109,12 +108,8 @@ import {
       icon: git,
     },
     {
-      name: "Java",
-      icon: java,
-    },
-    {
-      name: "Spring",
-      icon: spring,
+      name: "Python",
+      icon: python,
     },
     {
       name: "bootstrap",
