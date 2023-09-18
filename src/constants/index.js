@@ -18,8 +18,8 @@ import {
     github,
     linkedin,
     gamerpad,
-    redux,
-    figma,
+    java,
+    spring,
     mui,
     mysql,
     bootstrap
@@ -109,12 +109,12 @@ import {
       icon: git,
     },
     {
-      name: "Redux",
-      icon: redux,
+      name: "Java",
+      icon: java,
     },
     {
-      name: "Figma",
-      icon: figma,
+      name: "Spring",
+      icon: spring,
     },
     {
       name: "bootstrap",
